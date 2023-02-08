@@ -4,8 +4,27 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+.carousel-item img {
+    width: 10px;
+    object-fit: cover;
+}
 header{
-    background-color: rgb(15, 15, 15,0.9);
+    background-color: rgb(15, 15, 15,0.7);
     color: white;
 }
 
+footer{
+    background-color: rgb(15, 15, 15,0.7);
+    color: white;
+}
+a{
+    font-size: 1.3rem;
+    border: none;
+}
+h3 {
+    color: white;
+}
+.btn-primary{
+
+    border: none;
+}
