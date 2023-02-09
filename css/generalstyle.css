@@ -4,10 +4,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-.carousel-item img {
-    width: 10px;
-    object-fit: cover;
-}
+
 header{
     background-color: rgb(15, 15, 15,0.7);
     color: white;
